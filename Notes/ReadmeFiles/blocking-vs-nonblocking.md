@@ -33,6 +33,8 @@ console.log("File content:", data);
 console.log("This will only run AFTER the file is read.");
 ```
 
+## 📝Non-Blocking Example (Asynchronous)
+
 ```js
 // Non-Blocking (Asynchronous)
 const fs = require("fs");
